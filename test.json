@@ -1,0 +1,12 @@
+{
+  "codeno-apk": "2.0.0.0.1",
+  "downloadurl-apk": "http://file.51itro.com/ishang/app/Android/XiaoBei_OA.apk",
+  "content-apk": "1、调整发送文件样式，可发送发送其它APP的文件文件。\n2、添加了Bugly热更新功能；\n3、聊天页面添加网络变化监听。",
+  "forceupdate-apk": 2,
+  "codeno-ios": "2.0.0.0.1",
+  "downloadurl-ios": "itms-services://?action=download-manifest&url=https://file.51itro.com/ishang/app/IOS/manifest.plist",
+  "content-ios": "1、优化用户体验，修复已知Bug。",
+  "codeno-PC": "2.00.010",
+  "downloadurl-PC": "http://file.51itro.com/ishang/app/pc/XiaoBei_OA.exe",
+  "content-PC": "1、增加聊天图片下载，以及图片缩放；\n2、优化聊天文件下载功能和联系人搜索优化；\n3、修复若干已知Bug。"
+}
